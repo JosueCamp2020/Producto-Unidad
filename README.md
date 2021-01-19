@@ -14,6 +14,23 @@
 
 2. MARCO TEORICO / DIAGRAMAS
 
+Ecuaciones simultaneas en el analisis de circuitos
+Las ecuaciones simultáneas consisten en n conjuntos de ecuaciones que contienen n incógnitas, donde n es un número con un valor de 2 o mayor. El número de ecuaciones contenidas en el conjunto debe ser igual al número desconocido. Por ejemplo, para determinar dos variables desconocidas, necesita dos ecuaciones, para tres incógnitas, necesita tres ecuaciones, y así sucesivamente.
+"Resolver el circuito" significa resolver ecuaciones simultáneas.
+* ¿Cómo sabemos el número de ecuaciones necesarias para resolver el circuito?
+* ¿Cómo sabemos que podemos crearlos?
+Al estudiar el análisis de circuitos, parece que tienes suerte o coincidencia, pero la cantidad de ecuaciones que quieres resolver es correcta. Este artículo mostrará que la suerte no está involucrada y que el método de análisis captura de manera confiable todas las restricciones necesarias para resolver el circuito.
+Qué vamos a construir
+Para resolver el problema del circuito, queremos conocer el voltaje y la corriente de cada componente. Esto significa que la ecuación independiente que necesitamos es el doble de componentes en el circuito.Estas ecuaciones provienen de tres lugares:
+*	Obtienes la mitad de las ecuaciones a partir de las leyes de los elementos para cada componente.
+*	La ley de la corriente de Kirchhoff contribuye con N−1 ecuaciones independientes, donde N es el número de nodos.
+*	La ley del voltaje de Kirchhoff contribuye con E−(N−1), ecuaciones independientes, donde E es el número de elementos.
+Si juntas todas estas, terminas con el número correcto de ecuaciones.
+Los resultados que desarrollaremos aquí están incluidos en los distintos métodos de análisis de circuitos: 
+*	La aplicación directa de las leyes fundamentales(Se abre en una ventana nueva)(Se abre en una ventana nueva) (las leyes de Ohm y de Kirchhoff).
+*	El método del voltaje en los nodos.
+*	El método de la corriente de malla y su pariente cercano, el método de la corriente de lazo.
+
 3. EJERCICIOS
 
 ![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios1.jpeg)
