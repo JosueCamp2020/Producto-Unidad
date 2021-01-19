@@ -31,6 +31,9 @@ Los resultados que desarrollaremos aquí están incluidos en los distintos méto
 *	El método del voltaje en los nodos.
 *	El método de la corriente de malla y su pariente cercano, el método de la corriente de lazo.
 
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Marco1.png)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Marco2.png)
+
 3. EJERCICIOS
 
 ![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios1.jpeg)
