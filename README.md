@@ -59,3 +59,8 @@ https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Aportaciones/Aportaci
 7.	BIBLIOGRAFIA
 
 * Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:18-01-2021,Capitulo 9 , pags: 335-369
+* McAllister, W. (02 de 03 de 2019). khanacademy.org. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-number-of-required-equations
+* Salazar Gómez , A. J. (23 de 05 de 2018). prof.uniandes.edu.co. Obtenido de http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
+
+
