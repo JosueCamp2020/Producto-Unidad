@@ -33,6 +33,7 @@ Los resultados que desarrollaremos aquí están incluidos en los distintos méto
 
 ![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Marco1.png)
 ![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Marco2.png)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Marco3.png)
 
 3. EJERCICIOS
 
@@ -56,8 +57,6 @@ https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Aportaciones/Aportaci
 * Observando la resolucion de los ejercicios se pudo evidenciar una mejoria al momento de resolver los sitemas de ecuaciones ya que se enseño 3 diferentes tipos de resoluciones, y nos han demostrando que no solo existe un tipo de resolucion, y logrando asi ampliar nuestro conocimiento.
 * Se ha evidenciado que el uso de los analisis de mallas, nodos y lazos son una mejor opcion para la resolucion de los ejercicios ya que son metodos efectivos y practicos al momento de realizar el analisis analiticamente, ya que por la gran cantidad de ecuaciones que podrian aparecer se facilita al usar estos metodos.
 * Se descubruo cuando usar los analisis en el caso del analisis de mallas es muy conveniente realizar el uso cuando se encuentren fuentes de tension, el de nodos se utiliza mas para las fuentes de corriente y para el analisis de lazos es una variante de mallas que se basa en la Ley de Voltaje de Kirchhoff(LVK).
-
-
 
 7.	BIBLIOGRAFIA
 
