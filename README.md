@@ -12,9 +12,16 @@
 * Aplicar el analisis ya sea de malla,lazo o nodo para determinar los valores como voltajes o intensidades de las corrientes.
 * Resolver las diferentes ecuaciones que se presentaran ya sea analiticamente o con una calculadora.
 
-2. MARCO TEORICO
+2. MARCO TEORICO / DIAGRAMAS
 
-3. DIAGRAMAS/EJERCICIOS
+3. EJERCICIOS
+
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios1.jpeg)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios2.jpeg)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios3.jpeg)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios4.jpeg)
+![](https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Imagenes/Ejercicios5.jpeg)
+
 
 4. EXPLICACIÓN
 
