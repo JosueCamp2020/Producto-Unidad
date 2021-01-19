@@ -29,4 +29,4 @@
 
 6.	BIBLIOGRAFIA
 
-* Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:10-01-2021,Capitulo 9 , pags: 335-369
+* Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:18-01-2021,Capitulo 9 , pags: 335-369
