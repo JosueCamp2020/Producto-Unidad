@@ -50,7 +50,7 @@ https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Aportaciones/Aportaci
 
 5. ARTICULO
 
-
+https://github.com/JosueCamp2020/Producto-Unidad/blob/main/Articulo/Articulo%202.pdf
 
 6. CONCLUSIONES
 
