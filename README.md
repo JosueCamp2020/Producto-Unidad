@@ -27,7 +27,7 @@ Para resolver el problema del circuito, queremos conocer el voltaje y la corrien
 *	La ley del voltaje de Kirchhoff contribuye con E−(N−1), ecuaciones independientes, donde E es el número de elementos.
 Si juntas todas estas, terminas con el número correcto de ecuaciones.
 Los resultados que desarrollaremos aquí están incluidos en los distintos métodos de análisis de circuitos: 
-*	La aplicación directa de las leyes fundamentales(Se abre en una ventana nueva)(Se abre en una ventana nueva) (las leyes de Ohm y de Kirchhoff).
+*	La aplicación directa de las leyes fundamentales(las Leyes de Ohm y de Kirchhoff).
 *	El método del voltaje en los nodos.
 *	El método de la corriente de malla y su pariente cercano, el método de la corriente de lazo.
 
